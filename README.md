@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-with-PySpark
+# Exploratory-Data-Analysis with PySpark
 Semester project for Data Mining (DSML course) 
 
 The dataset of this project was taken from the following repository:
